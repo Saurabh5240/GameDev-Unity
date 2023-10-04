@@ -1,3 +1,8 @@
+This prototype game has following features---   
+1)Player can do movement with WASD keys   
+2)player can switch between first person and third person camera modes (using V Button)   
+3)There are car obstacles which can hit the player car and they spawn and destroy at certain boundary limits.   
+
 This is a demo video of how the prototype works---   
 
 
