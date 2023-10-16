@@ -1,9 +1,17 @@
-This prototype game has following features---   
-1)Player can do movement with WASD keys   
-2)player can switch between first person and third person camera modes (using V Button)   
-3)There are car obstacles which can hit the player car and they spawn and destroy at certain boundary limits.   
+This is a simple car driving game with following features--   
+1)Player 1 is car (WASD keys )   
+2)Player2 is tank(IJKL keys)   
+3)Both can switch between 1st person and 3rd person cam with V and M keys simaltaneosly.   
+5)The first player to hit the winning obstacle at last wins the game and a message is displayed in Console window.   
 
-This is a demo video of how the prototype works---   
+This is a demo video of how the prototype works---     
+1st is of the multiplayer mode and 2nd is of single player mode.
+
+
+
+https://github.com/Saurabh5240/GameDev-Unity/assets/129985013/7f8b7c57-53c3-4719-9899-31724b2de568
+
+
 
 
 
