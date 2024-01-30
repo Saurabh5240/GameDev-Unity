@@ -5,7 +5,7 @@ This is a simple car driving game with following features--
 5)The first player to hit the winning obstacle at last wins the game and a message is displayed in Console window.   
 
 This is a demo video of how the prototype works---     
-1st is of the multiplayer mode and 2nd is of single player mode.      
+1st is of the multiplayer mode and 2nd is of single player mode.          
 
 
 
