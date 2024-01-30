@@ -1,4 +1,4 @@
-This is a simple car driving game with following features--   
+This is a simple car driving game with following features--      
 1)Player 1 is car (WASD keys )   
 2)Player2 is tank(IJKL keys)   
 3)Both can switch between 1st person and 3rd person cam with V and M keys simaltaneosly.   
