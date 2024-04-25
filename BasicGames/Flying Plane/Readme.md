@@ -3,7 +3,8 @@ This prototype game has following features--
 2)Player has contstant movement forward   
 3) Player has to avoid the obstacles during the flight    
  
-Here is a demo and screenshot of the gameplay in unity----   
+Here is a demo and screenshot of the gameplay in unity----    
+
 
 
 https://github.com/Saurabh5240/GameDev-Unity/assets/129985013/f27a3a78-0049-42b6-a39f-a4628b96a4fd   
